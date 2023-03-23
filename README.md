@@ -6,3 +6,4 @@ Get your API KEY from [Riot Games Website](https://developer.riotgames.com). Mak
 
 # Convergence
 Since the match history refers only to the last 100 games, the dataset is very small and there are problems of numerical instability due to the small dataset. It would be advisable to aggregate the data of several games of different players to be able to make the model generalize in the appropriate way.
+Feel free to modify the NN architecture to tune the model and get better predictions!
