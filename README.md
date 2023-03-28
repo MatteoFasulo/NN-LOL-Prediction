@@ -20,5 +20,5 @@ The proposed network achieves an accuracy of 0.89 on the validation set. As some
 
 # References
 1. [@SION1225 - Predict LOL Ranked game with Keras](https://www.kaggle.com/code/sion1225/predict-lol-ranked-game-with-keras-72-accuracy)
-2. @GitMarco27 - [Get Teamfight Tactics (TFT) data with Python and Riot Games API](https://marcosanguineti.medium.com/get-teamfight-tactics-tdf-data-with-python-and-riot-games-api-e3243e3c54dc)
-3. @RiotGames - [League of Legends API Docs](https://developer.riotgames.com/docs/lol)
+2. [@GitMarco27](https://github.com/GitMarco27) - [Get Teamfight Tactics (TFT) data with Python and Riot Games API](https://marcosanguineti.medium.com/get-teamfight-tactics-tdf-data-with-python-and-riot-games-api-e3243e3c54dc)
+3. [@RiotGames](https://github.com/RiotGames) - [League of Legends API Docs](https://developer.riotgames.com/docs/lol)
