@@ -13,7 +13,7 @@ Some dataset features were not considered for the model. Feel free to use in cas
 # Convergence
 The proposed network achieves an accuracy of 0.89 on the validation set. As some features of the dataset have a different scale (e.g goldEarned), the dataset has been normalized through Z-score normalization. Binary crossentropy with Adam optimizer was used after finding the optimal learning rate. Finally, the model was trained with the new learning rate on a lower number of epochs to avoid overfitting.
 
-![Accuracy and Loss](https://github.com/MatteoFasulo/NN-LOL-Prediction/blob/main/code/acc_loss.svg?raw=true "Accuracy and Loss Plot")
+![Accuracy and Loss](https://github.com/MatteoFasulo/NN-LOL-Prediction/blob/main/img/acc_loss.svg?raw=true "Accuracy and Loss Plot")
 
 # Model Graph
-![Model Graph](https://github.com/MatteoFasulo/NN-LOL-Prediction/blob/main/code/model.png?raw=true "Neural Network Plot")
+![Model Graph](https://github.com/MatteoFasulo/NN-LOL-Prediction/blob/main/img/model.png?raw=true "Neural Network Plot")
